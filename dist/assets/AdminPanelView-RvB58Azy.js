@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as e}from"./index-wR8tpGks.js";const c={},t={class:"adminPanel"},o=e("h1",null,"This page is under maintenance!",-1),_=e("p",null,"Please come back later.",-1),i=[o,_];function r(l,d){return a(),s("div",t,i)}const h=n(c,[["render",r]]);export{h as default};
