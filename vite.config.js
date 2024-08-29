@@ -12,5 +12,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/vue-pages/',  // Base URL for the application
+  base: '/SenneMartensPXL.github.io/',  // Base URL for the application
 });
